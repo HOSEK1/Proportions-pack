@@ -5,12 +5,6 @@
 ##### Minecraft version: 1.18.2 • Modloader: Forge
 [Modrinth link](https://modrinth.com/modpack/proportion)
 
-## Included resource packs:
-Developer art+ with dark UI
-
-credits:
-[Developer art+](https://github.com/shmoobalizer/developer_art_plus)
-[Vanilla Tweaks](https://vanillatweaks.net/)
 
 # Server setup
 If you wish to run this modpack on a server, make sure to download the modpack with the "SERVER" in it's name. If you download the other one you will face client side only mods.
