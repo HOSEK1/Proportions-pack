@@ -38,6 +38,7 @@ If you wish to run this modpack on a server, make sure to download the modpack w
 |Inventory profiles next|https://modrinth.com/mod/inventory-profiles-next|
 |Item stitching fix|https://modrinth.com/mod/item-stitching-fix/|
 |Journeymap|https://modrinth.com/mod/journeymap|
+|JEI|https://www.curseforge.com/minecraft/mc-mods/jei|
 |Kotlin|https://modrinth.com/mod/kotlin-for-forge|
 |Light overlay|https://modrinth.com/mod/light-overlay/|
 |Measurements|https://modrinth.com/mod/measurements|
@@ -50,5 +51,7 @@ If you wish to run this modpack on a server, make sure to download the modpack w
 |Tax Free levels|https://modrinth.com/mod/tax-free-levels|
 |TerraBlender|https://www.curseforge.com/minecraft/mc-mods/terrablender|
 |Twigs|https://modrinth.com/mod/twigs|
+|Tinker's construct|https://www.curseforge.com/minecraft/mc-mods/tinkers-construct|
+|Mantle|https://www.curseforge.com/minecraft/mc-mods/mantle|
 |WaveyCapes|https://modrinth.com/mod/wavey-capes|
 |What the hell is that|https://modrinth.com/mod/wthit|
