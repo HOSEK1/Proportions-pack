@@ -23,6 +23,7 @@ If you wish to run this modpack on a server, make sure to download the modpack w
 |BetterThanMending|https://modrinth.com/mod/better-than-mending|
 |MrCrayfish's Furniture Mod|https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod|
 |Cloth-config|https://modrinth.com/mod/cloth-config|
+|Configured|https://www.curseforge.com/minecraft/mc-mods/configured|
 |Debugify|https://modrinth.com/mod/debugify|
 |Detailed armor bar|https://modrinth.com/mod/detail-armor-bar|
 |Display case|https://modrinth.com/mod/displaycase|
