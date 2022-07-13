@@ -3,6 +3,7 @@
 
 
 ##### Minecraft version: 1.18.2 • Modloader: Forge
+[Modrinth link](https://modrinth.com/modpack/proportion)
 
 ## Included resource packs:
 Developer art+ with dark UI
