@@ -12,7 +12,6 @@ If you wish to run this modpack on a server, make sure to download the modpack w
 ## Mods:
 |Mod name|Source|
 |:----|:----|
-|Create|https://modrinth.com/mod/create|
 |3d skin layers|https://modrinth.com/mod/3dskinlayers|
 |Antighost|https://modrinth.com/mod/antighost|
 |Appleskin|https://modrinth.com/mod/appleskin|
@@ -21,9 +20,8 @@ If you wish to run this modpack on a server, make sure to download the modpack w
 |Bad packets|https://modrinth.com/mod/badpackets|
 |Better F3|https://modrinth.com/mod/betterf3/|
 |BetterThanMending|https://modrinth.com/mod/better-than-mending|
-|MrCrayfish's Furniture Mod|https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod|
 |Cloth-config|https://modrinth.com/mod/cloth-config|
-|Configured|https://www.curseforge.com/minecraft/mc-mods/configured|
+|Create|https://modrinth.com/mod/create|
 |Debugify|https://modrinth.com/mod/debugify|
 |Detailed armor bar|https://modrinth.com/mod/detail-armor-bar|
 |Display case|https://modrinth.com/mod/displaycase|
@@ -37,13 +35,14 @@ If you wish to run this modpack on a server, make sure to download the modpack w
 |GameMenuModOption|https://modrinth.com/mod/gamemenumodoption|
 |GameMenuRemove|https://modrinth.com/mod/gamemenuremovegfarb|
 |Inventory profiles next|https://modrinth.com/mod/inventory-profiles-next|
+|InventoryHUD|https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge|
 |Item stitching fix|https://modrinth.com/mod/item-stitching-fix/|
 |Journeymap|https://modrinth.com/mod/journeymap|
-|JEI|https://www.curseforge.com/minecraft/mc-mods/jei|
 |Kotlin|https://modrinth.com/mod/kotlin-for-forge|
 |Light overlay|https://modrinth.com/mod/light-overlay/|
 |Measurements|https://modrinth.com/mod/measurements|
 |Missing Wilds|https://modrinth.com/mod/missing-wilds|
+|MrCrayfish's Furniture Mod|https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod|
 |Notenoughanimations|https://modrinth.com/mod/not-enough-animations|
 |Oh the biomes you'll go|https://modrinth.com/mod/biomesyougo|
 |Plasmo voice|https://modrinth.com/mod/plasmo-voice|
@@ -52,7 +51,8 @@ If you wish to run this modpack on a server, make sure to download the modpack w
 |Tax Free levels|https://modrinth.com/mod/tax-free-levels|
 |TerraBlender|https://www.curseforge.com/minecraft/mc-mods/terrablender|
 |Twigs|https://modrinth.com/mod/twigs|
-|Tinker's construct|https://www.curseforge.com/minecraft/mc-mods/tinkers-construct|
-|Mantle|https://www.curseforge.com/minecraft/mc-mods/mantle|
+|U Team core|https://www.curseforge.com/minecraft/mc-mods/u-team-core|
+|Useful Backpacks|https://www.curseforge.com/minecraft/mc-mods/useful-backpacks|
 |WaveyCapes|https://modrinth.com/mod/wavey-capes|
 |What the hell is that|https://modrinth.com/mod/wthit|
+
