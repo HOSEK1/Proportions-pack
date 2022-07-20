@@ -34,6 +34,7 @@ If you wish to run this modpack on a server, make sure to download the modpack w
 |Flywheel|https://modrinth.com/mod/flywheel|
 |GameMenuModOption|https://modrinth.com/mod/gamemenumodoption|
 |GameMenuRemove|https://modrinth.com/mod/gamemenuremovegfarb|
+|GoProne|https://www.curseforge.com/minecraft/mc-mods/goprone/files|
 |Inventory profiles next|https://modrinth.com/mod/inventory-profiles-next|
 |InventoryHUD|https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge|
 |Item stitching fix|https://modrinth.com/mod/item-stitching-fix/|
@@ -55,4 +56,5 @@ If you wish to run this modpack on a server, make sure to download the modpack w
 |Useful Backpacks|https://www.curseforge.com/minecraft/mc-mods/useful-backpacks|
 |WaveyCapes|https://modrinth.com/mod/wavey-capes|
 |What the hell is that|https://modrinth.com/mod/wthit|
+
 
