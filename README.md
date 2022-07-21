@@ -17,8 +17,9 @@ If you wish to run this modpack on a server, make sure to download the modpack w
  - Plasmo voice
  - Oh the biomes you'll go
  - GoProne
+ - FTB Industrial Contraptions (Modern industrialcraft)
 
-## Mods:
+
 |Mod name|Source|
 |:----|:----|
 |3d skin layers|https://modrinth.com/mod/3dskinlayers|
@@ -40,6 +41,7 @@ If you wish to run this modpack on a server, make sure to download the modpack w
 |Falling leaves|https://modrinth.com/mod/fallingleavesforge|
 |Ferrite core|https://modrinth.com/mod/ferrite-core|
 |Flywheel|https://modrinth.com/mod/flywheel|
+|FTB Industrial Contraptions|https://www.curseforge.com/minecraft/mc-mods/ftb-industrial-contraptions-forge/|
 |GameMenuModOption|https://modrinth.com/mod/gamemenumodoption|
 |GameMenuRemove|https://modrinth.com/mod/gamemenuremovegfarb|
 |GoProne|https://www.curseforge.com/minecraft/mc-mods/goprone/files|
@@ -62,6 +64,7 @@ If you wish to run this modpack on a server, make sure to download the modpack w
 |Measurements|https://modrinth.com/mod/measurements|
 |Missing Wilds|https://modrinth.com/mod/missing-wilds|
 |MrCrayfish's Furniture Mod|https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod|
+|Myrtrees|https://www.curseforge.com/minecraft/mc-mods/myrtrees|
 |Notenoughanimations|https://modrinth.com/mod/not-enough-animations|
 |Oh the biomes you'll go|https://modrinth.com/mod/biomesyougo|
 |Plasmo voice|https://modrinth.com/mod/plasmo-voice|
@@ -74,6 +77,3 @@ If you wish to run this modpack on a server, make sure to download the modpack w
 |Useful Backpacks|https://www.curseforge.com/minecraft/mc-mods/useful-backpacks|
 |WaveyCapes|https://modrinth.com/mod/wavey-capes|
 |What the hell is that|https://modrinth.com/mod/wthit|
-
-
-
