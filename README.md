@@ -26,7 +26,6 @@ If you wish to run this modpack on a server, make sure to download the modpack w
 |Detailed armor bar|https://modrinth.com/mod/detail-armor-bar|
 |Display case|https://modrinth.com/mod/displaycase|
 |Dramatic doors|https://modrinth.com/mod/dramatic-doors|
-|Durability viewer|https://modrinth.com/mod/durabilityviewer|
 |Explorations|https://modrinth.com/mod/explorations|
 |Extended clouds|https://modrinth.com/mod/extended-clouds|
 |Falling leaves|https://modrinth.com/mod/fallingleavesforge|
@@ -41,6 +40,16 @@ If you wish to run this modpack on a server, make sure to download the modpack w
 |Journeymap|https://modrinth.com/mod/journeymap|
 |Kotlin|https://modrinth.com/mod/kotlin-for-forge|
 |Light overlay|https://modrinth.com/mod/light-overlay/|
+|Macaw's Bridges|https://www.curseforge.com/minecraft/mc-mods/macaws-bridges|
+|Macaw's Bridges (OTBYG compatibility)|https://www.curseforge.com/minecraft/mc-mods/macaws-bridges-oh-the-biomes-youll-go|
+|Macaw's Doors|https://www.curseforge.com/minecraft/mc-mods/macaws-doors|
+|Macaw's Fences and Walls|https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls|
+|Macaw's Furniture|https://www.curseforge.com/minecraft/mc-mods/macaws-furniture|
+|Macaw's Lights and Lamps|https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps|
+|Macaw's Paintings|https://www.curseforge.com/minecraft/mc-mods/macaws-paintings|
+|Macaw's Roofs|https://www.curseforge.com/minecraft/mc-mods/macaws-roofs|
+|Macaw's Trapdoors|https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors|
+|Macaw's Windows|https://www.curseforge.com/minecraft/mc-mods/macaws-windows|
 |Measurements|https://modrinth.com/mod/measurements|
 |Missing Wilds|https://modrinth.com/mod/missing-wilds|
 |MrCrayfish's Furniture Mod|https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod|
@@ -56,5 +65,6 @@ If you wish to run this modpack on a server, make sure to download the modpack w
 |Useful Backpacks|https://www.curseforge.com/minecraft/mc-mods/useful-backpacks|
 |WaveyCapes|https://modrinth.com/mod/wavey-capes|
 |What the hell is that|https://modrinth.com/mod/wthit|
+
 
 
