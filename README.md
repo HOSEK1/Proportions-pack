@@ -9,6 +9,15 @@
 # Server setup
 If you wish to run this modpack on a server, make sure to download the modpack with the "SERVER" in it's name. If you download the other one you will face client side only mods.
 
+# Mod Highlight:
+
+ - Create
+ - Tinker's construct
+ - Macaw's Bridges, Windows, Doors, Roofs, Fences and Walls, Trapdoors, Furniture Light's and lamps and Paintings.
+ - Plasmo voice
+ - Oh the biomes you'll go
+ - GoProne
+
 ## Mods:
 |Mod name|Source|
 |:----|:----|
