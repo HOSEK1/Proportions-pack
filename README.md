@@ -32,6 +32,8 @@ If you wish to run this modpack on a server, make sure to download the modpack w
 |BetterThanMending|https://modrinth.com/mod/better-than-mending|
 |Cloth-config|https://modrinth.com/mod/cloth-config|
 |Create|https://modrinth.com/mod/create|
+|Create Crafts and additions|https://www.curseforge.com/minecraft/mc-mods/createaddition|
+|Create decorations|https://www.curseforge.com/minecraft/mc-mods/create-deco|
 |Debugify|https://modrinth.com/mod/debugify|
 |Detailed armor bar|https://modrinth.com/mod/detail-armor-bar|
 |Display case|https://modrinth.com/mod/displaycase|
