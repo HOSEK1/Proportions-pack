@@ -76,6 +76,7 @@ If you wish to run this modpack on a server, make sure to download the modpack w
 |TerraBlender|https://www.curseforge.com/minecraft/mc-mods/terrablender|
 |Twigs|https://modrinth.com/mod/twigs|
 |U Team core|https://www.curseforge.com/minecraft/mc-mods/u-team-core|
+|Ultimate car mod|https://www.curseforge.com/minecraft/mc-mods/ultimate-car-mod|
 |Useful Backpacks|https://www.curseforge.com/minecraft/mc-mods/useful-backpacks|
 |WaveyCapes|https://modrinth.com/mod/wavey-capes|
 |What the hell is that|https://modrinth.com/mod/wthit|
