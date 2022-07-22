@@ -19,6 +19,8 @@ If you wish to run this modpack on a server, make sure to download the modpack w
  - GoProne
  - FTB Industrial Contraptions (Modern industrialcraft)
 
+## Car wiki
+https://modrepo.de/minecraft/car/wiki
 
 |Mod name|Source|
 |:----|:----|
