@@ -28,6 +28,7 @@ https://modrepo.de/minecraft/car/wiki
 |Antighost|https://modrinth.com/mod/antighost|
 |Appleskin|https://modrinth.com/mod/appleskin|
 |Applied Energistics 2|https://modrinth.com/mod/ae2|
+|Another Furniture mod|https://modrinth.com/mod/another-furniture|
 |Armor Poser|https://modrinth.com/mod/armor-poser|
 |Bad packets|https://modrinth.com/mod/badpackets|
 |Better F3|https://modrinth.com/mod/betterf3/|
